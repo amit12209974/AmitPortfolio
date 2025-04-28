@@ -237,7 +237,7 @@ export default function Home() {
                 transition={{ type: "spring", stiffness: 300 }}
               >
                 <Image
-                  src="/myimage.png?height=400&width=400"
+                  src="/amit.png?height=400&width=400"
                   alt="Profile"
                   width={400}
                   height={400}
