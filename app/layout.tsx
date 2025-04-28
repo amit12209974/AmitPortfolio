@@ -3,7 +3,7 @@ import "@/app/globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
 
 export const metadata = {
-  title: "Abhishek Kumar - Portfolio",
+  title: "Amit Gupta - Portfolio",
   description: "Personal portfolio website of Abhishek Kumar - Web Developer, Coder, and Enthusiast",
     generator: 'v0.dev'
 }
